@@ -1,16 +1,10 @@
-# desafio3
+# Desafio 3
 
-A new Flutter project.
+Aplicação de Agenda de Contatos com Sincronização na Cloud
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desenvolver uma aplicação de agenda de contatos com autenticação e sincronização de dados na cloud.\
+A aplicação deve permitir ao utilizador criar, editar, excluir e pesquisar contatos.\
+Utilizar Firebase para autenticação de usuários e Cloud Firestore para armazenar os contatos, garantindo que os mesmos sejam sincronizados entre diferentes dispositivos do utilizador.\
+A interface deve ser responsiva e esteticamente agradável, demonstrando habilidades avançadas com Flutter Widgets e design responsivo.

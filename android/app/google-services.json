@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945431553299",
+    "project_id": "desafio-digiup",
+    "storage_bucket": "desafio-digiup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945431553299:android:fd0c550ff38d51c42c26e6",
+        "android_client_info": {
+          "package_name": "com.digiup.miguel.desafio3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsAIDKndE2L8p5by5Sdn1K15rDwpDqfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
